@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# run training over teh PDAC datasets, holding back a tumor and normal
+# run training over the PDAC datasets, holding back a tumor and normal
 
 import anndata
 from joint import joint, utils
