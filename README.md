@@ -14,3 +14,5 @@ Pancreatic ductal adenocarcinoma (PDAC) is one of the most lethal cancers; it is
 [4] Zhang J, Bajari R, Andric D, Gerthoffert F, Lepsa A, Nahal-Bose H, et al. The international cancer genome consortium data portal. Nat Biotechnol. 2019;37(4):367–9.
 
 [5] Lin, W., Noel, P., Borazanci, E.H. et al. Single-cell transcriptome analysis of tumor and stromal compartments of pancreatic ductal adenocarcinoma primary tumors and metasta
+
+![normal vs PDAC, courtesy CSHL](reference/PDAC-pancreas-cells-comparison.jpg)
